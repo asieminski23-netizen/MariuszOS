@@ -45,9 +45,9 @@ Calc       | \[n1] \[op] \[n2] | Does 16-bit integer math (+, - \* /).     |
 
 | Clear      | None      | Clears the VGA buffer to reset the screen.   |
 
-Reboot     | None      | Restarts the CPU.                             |
+Reboot     | None      | Restarts the PC.                             |
 
-| Shutdown   | None      | Sends a signal to turn off the hardware.
+| Shutdown   | None      | Sends a signal to turn off the computer.
 
 ### Running the OS
 
@@ -55,7 +55,7 @@ MariuszOS works best with x86 emulation. For the experience use Bochs but anythi
 
 *   **Get the Image**: Download mariuszos.iso or floppy.img.
 
-*   **Set Up Emulator**: Choose "/Unknown" as the guest OS and use at least 64MB of RAM.
+*   **Set Up Emulator**: Choose "MS-DOS" as the guest OS and use at least 64MB of RAM.
 
 *   **Start**: Attach the image as the boot drive and start it.
 
