@@ -51,10 +51,12 @@ Reboot     | None      | Restarts the CPU.                             |
 
 ### Running the OS
 
-MariuszOS works best with x86 emulation. For the experience use Bochs but QEMU and VirtualBox also work.
+MariuszOS works best with x86 emulation. For the experience use Bochs but anything else should also work.
 
 *   **Get the Image**: Download mariuszos.iso or floppy.img.
 
-*   **Set Up Emulator**: Choose "/Unknown" as the guest OS and use at least 32MB of RAM.
+*   **Set Up Emulator**: Choose "/Unknown" as the guest OS and use at least 64MB of RAM.
 
 *   **Start**: Attach the image as the boot drive and start it.
+
+copyrighted by me, pls dont steal amigo?
