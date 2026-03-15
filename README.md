@@ -23,7 +23,7 @@ MariuszOS is built to be simple so that students and hobbyists can easily read a
 
 When you start MariuszOS it shows a greeting like a "Power-On Self-Test" (POST):
 
-*   **Memory**: 217 MB found
+*   **Memory**: example 64MB ram detected
 
 *   **Status**: Kernel started
 
